@@ -1,0 +1,33 @@
+# Vermeer — Delft, 1660s (Girl with a Pearl Earring, The Milkmaid, View of Delft).
+# Umber shadows, natural ultramarine, lead-tin yellow, pearl highlights.
+mode = "dark"
+
+accent = "#5a85d6"              # natural ultramarine (the turban)
+selection = "#2c3a5c"
+muted = "#5a554a"
+
+background = "#1b1a16"          # umber shadow
+dark_background = "#13120f"
+darker_background = "#0c0b09"
+lighter_background = "#2a2822"
+
+foreground = "#ece3cf"          # pearl / linen
+dark_foreground = "#8c8576"
+light_foreground = "#d8cfba"
+bright_foreground = "#f8f2e4"
+
+red = "#c25c44"                 # madder lake
+yellow = "#e3c45a"              # lead-tin yellow
+orange = "#c98a45"
+green = "#7d9468"               # green earth
+cyan = "#7aa7b0"                # north window light
+blue = "#5a85d6"                # ultramarine
+magenta = "#a07894"
+brown = "#8a6340"               # raw umber
+
+bright_red = "#d87a63"
+bright_yellow = "#f0d987"
+bright_green = "#9bb286"
+bright_cyan = "#9cc4cc"
+bright_blue = "#85a6e6"
+bright_magenta = "#bf98b3"
