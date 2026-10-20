@@ -66,5 +66,7 @@ All paintings are in the **public domain** and were sourced from Wikimedia Commo
 
 ## License
 
-Theme files (palette, icon choice, logo recolor) are MIT licensed — see [LICENSE](LICENSE).
-The paintings are public domain. The Omarchy logo belongs to the Omarchy project.
+Theme files (palette, icon choice, previews) are MIT licensed — see [LICENSE](LICENSE).
+The paintings are public domain.
+
+The boot-screen logo (`unlock.png`) is a recolored copy of the [Omarchy](https://github.com/basecamp/omarchy) wordmark, Copyright (c) David Heinemeier Hansson, used under the MIT License — see [LICENSE-omarchy](LICENSE-omarchy).
